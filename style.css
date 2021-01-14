@@ -7,7 +7,14 @@
     background-color:white;
     border: 0;
 }
-.back-color
+.second-header-color
 {
-    background-color: honeydew;
+    background-color: #FFFFFF;
+}
+.first-header-color{
+    background-color: #FFFFF4;
+}
+.product-background-color
+{
+    background-color: #F1F1F1;
 }
